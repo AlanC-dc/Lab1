@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Lab1AverageShippedUnits
+</name>
+</assembly>
+<members>
+<member name="T:Lab1AverageShippedUnits.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Lab1AverageShippedUnits.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Lab1AverageShippedUnits.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Lab1AverageShippedUnits.frmAverageUnitsShipped.btnEnter_Click(System.Object,System.EventArgs)">
+ <summary>
+ This button will accept the current text in the input textbox as an input
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab1AverageShippedUnits.frmAverageUnitsShipped.btnReset_Click(System.Object,System.EventArgs)">
+ <summary>
+ This button will reset the entire form to its default state
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab1AverageShippedUnits.frmAverageUnitsShipped.btnExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ This button will close the application
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>
